@@ -1,0 +1,4 @@
+# Project exclude paths
+/DEZSYS_GK771_WAREHOUSE_REST-main/.gradle/
+/DEZSYS_GK771_WAREHOUSE_REST-main/build/
+/DEZSYS_GK771_WAREHOUSE_REST-main/build/classes/java/main/
